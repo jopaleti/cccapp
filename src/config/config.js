@@ -1,4 +1,5 @@
 module.exports = {
-  uiRoot: "http://192.168.15.228:3000",
-  apiRoot: "https://cccspsoftware.onrender.com/",
+  uiRoot: "172.20.10.2:3000",
+  // apiRoot: "http://172.20.10.2:3001",
+  apiRoot: "https://cccspsoftware.onrender.com",
 };
